@@ -1,0 +1,4 @@
+Grill Station | 987654 |  5 | Custom Grilled Items
+Soup Kettle   | 147852 | 20 | Daily Soup Specials
+Bakery Counter|    987 |  5 | Freshly Baked Goods
+Smoothie Bar  | 459214 |  2 | Variety of Healthy Smoothies

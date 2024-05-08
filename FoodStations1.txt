@@ -1,0 +1,4 @@
+Sandwich Station,   654321,  10,  Create Your Own Sandwich
+Pizza Oven,         123456,   5,  Wood-fired Pizza Oven
+Salad Bar,          56789,    7,  Fresh Salad Bar
+Sushi Counter,      887,      5,  Made-to-order Sushi Rolls
