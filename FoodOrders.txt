@@ -1,0 +1,5 @@
+Cornel B. | 123 Main St. | Pizza Oven | Salad Bar
+Chris S.  | 456 Oak St.  | Grill Station | Bakery Counter | Soup Kettle
+John M.   | 789 Elm St.  | Salad Bar | Salad Bar | Grill Station | Smoothie Bar | Smoothie Bar | Soup Kettle | Grill Station
+Hong H.   | 321 Pine St. | Grill Station | Pizza Oven | Bakery Counter | Bakery Counter | Bakery Counter | Salad Bar
+Rania A.  | 654 Maple St.| Grill Station | Bakery Counter | Salad Bar | Bakery Counter | Bakery Counter | Bakery Counter | Salad Bar | Salad Bar

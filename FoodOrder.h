@@ -1,5 +1,5 @@
-#ifndef STDD_CUSTOMERORDER_H
-#define STDD_CUSTOMERORDER_H
+#ifndef STDD_FOODORDER_H
+#define STDD_FOODORDER_H
 
 #include <iostream>
 #include "FoodStation.h"
@@ -36,5 +36,5 @@ namespace stdd {
 
 } // !namespace_stdd
 
-#endif // !STDD_CUSTOMERORDER_H
+#endif // !STDD_FOODORDER_H
 
