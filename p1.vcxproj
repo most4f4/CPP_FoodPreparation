@@ -129,13 +129,17 @@
   <ItemGroup>
     <ClCompile Include="FoodOrder.cpp" />
     <ClCompile Include="FoodStation.cpp" />
-    <ClCompile Include="ms2.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="PrepLineManager.cpp" />
     <ClCompile Include="Utilities.cpp" />
+    <ClCompile Include="PreparationStation.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FoodOrder.h" />
     <ClInclude Include="FoodStation.h" />
+    <ClInclude Include="PrepLineManager.h" />
     <ClInclude Include="Utilities.h" />
+    <ClInclude Include="PreparationStation.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
