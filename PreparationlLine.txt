@@ -1,0 +1,8 @@
+Sushi Counter|Smoothie Bar
+Salad Bar|Sandwich Station
+Grill Station|Bakery Counter
+Bakery Counter
+Pizza Oven|Salad Bar
+Soup Kettle|Grill Station
+Sandwich Station|Sushi Counter
+Smoothie Bar|Soup Kettle
